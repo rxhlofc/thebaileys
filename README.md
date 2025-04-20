@@ -1,4 +1,4 @@
-<h1 align="center">💎 A:Bails h1>
+<h1 align="center">💎 A:Bails <h1>
 <p align="center">
   <em>Baileys Coded</em><br>
   <a href="https://github.com/WhiskeySockets/Baileys"><strong>@whiskeysockets/baileys</strong></a><br>
