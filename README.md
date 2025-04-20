@@ -49,6 +49,4 @@
 ## ⚙️ Instalasi
 
 ```bash
-npm install @whiskeysockets/baileys
-# atau clone versi A:Bails
-git clone https://github.com/anggazyy/A-Bails
+"@whiskeysockets/baileys": "github:AnggazyyZcoder/A-Bails",
