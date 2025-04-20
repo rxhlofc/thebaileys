@@ -46,7 +46,13 @@
 
 ---
 
-## ⚙️ Instalasi
+## ⚙️ Settings up
 
 ```bash
-"@whiskeysockets/baileys": "github:AnggazyyZcoder/A-Bails",
+"@whiskeysockets/baileys": "github:AnggazyyZcoder/A-Bails",`
+```
+
+##  Jimp supported
+```bash
+"jimp": "^0.22.12",
+```
