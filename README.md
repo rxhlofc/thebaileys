@@ -1,4 +1,4 @@
-<h1 align="center">💠 A:Bails - WhatsApp Module 💠</h1>
+<h1 align="center">💎 A:Bails h1>
 <p align="center">
   <em>Custom WhatsApp Engine Powered by</em><br>
   <a href="https://github.com/WhiskeySockets/Baileys"><strong>@whiskeysockets/baileys</strong></a><br>
@@ -16,7 +16,7 @@
 ## 📦 Tentang A:Bails
 
 > **A:Bails** adalah modul lanjutan dari `@whiskeysockets/baileys` dengan sistem **Custom Pairing** dan dukungan penuh terhadap berbagai **WA bug tools**.  
-> Dirancang khusus untuk developer yang ingin membangun bot WhatsApp profesional, sistem multi-user, atau alat automasi WhatsApp tingkat lanjut.
+> Dirancang khusus untuk developer yang ingin membangun bot WhatsApp profesional, sistem multi-user, atau alat automasi WhatsApp tingkat lanjut, maupun bagi yang ingin menggunakan bug.
 
 ---
 
@@ -24,8 +24,10 @@
 
 ### ⚙️ Custom Pairing System
 - Mendukung generate pairing code untuk penggunaan publik maupun pribadi.
-- Menyimpan sesi pairing ke file otomatis (auto reconnect ready).
-- Cocok untuk dashboard, panel, dan multi-user bot.
+### ❓ How to costum pairing
+```bash
+await abails.requestPairingCode(phoneNumber, "YOUR-CODE");
+```
 
 ### 🔥 Support All Bug Tools
 - Diuji dan kompatibel dengan berbagai metode bug WhatsApp:
