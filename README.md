@@ -1,60 +1,107 @@
-<h1 align="center">💎 A:Bails <h1>
+<h1 align="center">⭐ RxhL Ultra Bails</h1>
 <p align="center">
-  <em>Baileys Coded</em><br>
+  <em>Advanced WhatsApp Library powered by Baileys</em><br>
   <a href="https://github.com/WhiskeySockets/Baileys"><strong>@whiskeysockets/baileys</strong></a><br>
-  Developed & Enhanced by <strong>AnggazyyC</strong>
-</p>
+  Developed & Maintained by <strong>Rxhl Official</strong></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-Active-success?style=for-the-badge" alt="status">
-  <img src="https://img.shields.io/badge/powered_by-Baileys-blueviolet?style=for-the-badge" alt="powered">
-  <img src="https://img.shields.io/github/license/anggazyy/A-Bails?style=for-the-badge" alt="license">
-</p>
+## 📦 Tentang RxhL Ultra Bails
+
+**R:UltraBails** adalah pengembangan lanjutan dari pustaka [`@whiskeysockets/baileys`](https://github.com/WhiskeySockets/Baileys), yang dilengkapi dengan sistem **Custom Pairing**, manajemen sesi multi-user, kompatibilitas dengan beragam **alat eksploitasi bug WhatsApp**, dan koneksi yang lebih **stabil**.
 
 ---
 
-## 📦 Tentang A:Bails
-
-> **A:Bails** adalah modul lanjutan dari `@whiskeysockets/baileys` dengan sistem **Custom Pairing** dan dukungan penuh terhadap berbagai **WA bug tools**.  
-> Dirancang khusus untuk developer yang ingin membangun bot WhatsApp profesional, sistem multi-user, atau alat automasi WhatsApp tingkat lanjut, maupun bagi yang ingin menggunakan bug.
-
----
-
-## 🚀 Keunggulan A:Bails
+## 🚀 Fitur Unggulan
 
 ### ⚙️ Custom Pairing System
-- Mendukung generate pairing code untuk penggunaan publik maupun pribadi.
-### ❓ How to costum pairing
-```bash
-await abails.requestPairingCode(phoneNumber, "YOUR-CODE");
-```
-
-### 🔥 Support All Bug Tools
-- Diuji dan kompatibel dengan berbagai metode bug WhatsApp:
-  - **Invisible Bug**
-  - **Bug Saluran**
-  - **ViewOnce Bypass**
-  - **Group bug**
-  - Dan lainnya...
-
-### 🧩 Multi-Session & Flexible
-- Mendukung multi pairing atau rentbot
-- Pengelolaan sesi dengan struktur file yang rapi.
-- Bisa digunakan bersamaan dengan bot Telegram/Panel.
-
-### ⚡ Performa Maksimal
-- Super ringan, cepat, dan stabil.
-- Didukung oleh update dari core Baileys terbaru.
+- Mendukung pairing publik dan privat dengan kode unik.
+- Cocok untuk multi-bot dan autentikasi pengguna sewa.
 
 ---
 
-## ⚙️ Settings up
+🔥 Dukungan WA Bug Tools
 
-```bash
-"@whiskeysockets/baileys": "github:AnggazyyZcoder/A-Bails",`
-```
+Telah diuji kompatibel dengan beragam metode eksploitasi WA:
 
-##  Jimp supported
-```bash
-"jimp": "^0.22.12",
-```
+Invisible Bug (Pesan tidak terlihat)
+
+Bug Saluran (WA Channel Crash)
+
+ViewOnce Bypass
+
+Group Flooding
+
+Dan berbagai eksperimen lainnya.
+
+
+
+
+---
+
+🧩 Multi-Session Support
+
+Struktur penyimpanan sesi yang rapi dan modular.
+
+Dapat berjalan bersamaan dengan:
+
+Bot Telegram
+
+Panel kontrol pengguna
+
+CLI atau aplikasi lain
+
+
+
+
+---
+
+⚡ Performa Optimal
+
+Ringan, cepat, dan stabil.
+
+Berbasis Baileys terbaru untuk kompatibilitas maksimal.
+
+
+
+---
+
+✉️ Mendukung Tipe Pesan Terbaru
+
+Album Message
+
+StatusMentionMessage
+
+GroupStatusMentionMessage
+
+Dan lainnya..
+
+
+
+---
+
+⚙️ Instalasi
+
+Tambahkan dependensi berikut ke package.json Anda:
+
+"@whiskeysockets/baileys": "github:rxhlofc:thebaileys",
+"jimp": "^0.22.12"
+
+
+
+---
+
+✅ Credits
+
+Base: @whiskeysockets/baileys
+
+Original Fork by: AnggazyyC
+
+Re-modified By: Rxhl Official
+
+
+
+---
+
+📄 License
+
+Distributed under the MIT License. See LICENSE for more information.
+
